@@ -1,5 +1,4 @@
-# RCN Inventory Management Project - Server Side
-
+# RCN Inventory Management Project - Server Side - MERN Stack
 ## Overview
 This project is an inventory management system designed to help businesses keep track of their stock levels, orders, and suppliers. It provides a user-friendly interface for managing inventory items, tracking stock levels, and generating reports.
 
